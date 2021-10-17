@@ -1,0 +1,166 @@
+* {
+    padding: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-blackheading{
+    
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 135%;
+/* or 86px */
+
+letter-spacing: -0.02em;
+text-transform: capitalize;
+
+/* Core / Primary */
+
+color: #0B0033;
+}
+.top-bluepara{
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 200%;
+/* or 36px */
+
+
+color: #2B67F6;
+
+
+}
+.second-black{font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 135%;
+    /* or 65px */
+    
+    text-transform: capitalize;
+    
+    /* Core / Primary */
+    
+    color: #0B0033;
+    
+
+}
+.white-small{
+    font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 135%;
+/* or 65px */
+
+text-transform: capitalize;
+
+/* Grayscale / White */
+
+color: #FFFFFF
+;
+}
+.yello-para{
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 200%;
+/* or 36px */
+
+
+/* Core / Secondary */
+
+color: #FFDD60;
+}
+.purple-background{
+    background-color: #0B0033;
+    
+}
+.copyright-text{
+    font-family: Apercu;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+/* Grayscale / White */
+
+color: #FFFFFF;
+
+}
+.footer-heading{
+    font-family: Apercu;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 135%;
+/* or 32px */
+
+text-transform: capitalize;
+
+/* Core / Secondary */
+
+color: #FFDD60;
+
+}
+.footer-deatils{
+    font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 45px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+/* Grayscale / Grey 1 */
+
+color: #EFEFEF;
+}
+.tc-heading{
+    font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 135%;
+/* or 86px */
+
+letter-spacing: -0.02em;
+text-transform: capitalize;
+
+/* Old/Purple */
+
+color: #01204F;
+
+}
+.tc-para{
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 200%;
+/* or 36px */
+
+text-align: center;
+
+/* Core / Primary */
+
+color: #0B0033;
+
+opacity: 0.7;
+}
+.error-bg{
+    background-color: #faf0f0;
+}
+.imgwidth{
+    width: 500px;
+}
+.birthday-heading{
+    font-size: 79px;
+    color: gold;
+}
+.birthday-para{
+    font-size: 29px;
+    font-weight: 900;
+}
+.chiragbg{
+    background-color: red;
+    
+}
